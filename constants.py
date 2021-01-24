@@ -1,0 +1,6 @@
+darkColor = "#2F2C2C"
+buttonsColor = "#878683"
+fontName = "Times New Roman"
+whiteTextColor = "white"
+fileSelectedColor = "#3fbbe0"
+keyNameColor = "red"
