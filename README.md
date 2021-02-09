@@ -2,6 +2,8 @@
 
 **Kruptos Encryption** is a file encryption software built using Python. With just a few simple steps, your file can be encrypted and decrypted with a special unique key that is only available to you.
 
+Devpost Link: https://devpost.com/software/kruptos-encryption
+
 ## What was our inspiration?
 
 There are more than 30,000 vulnerable people attacked by hackers daily. For this reason, we created Kruptos Encryption. The word "Kruptos" comes from the word **κρυπτώ**, which means "hidden" in Greek. Most people nowadays leave their important files out in the open and un-encrypted. One of the reasons why we felt that is because the term "encrypting your files" sounds super complicated, so our purpose with this software is to make encryption as simple as possible. We went with a simple and yet minimalistic design that allows you to encrypt and decrypt your files with just a few button clicks.
